@@ -1,0 +1,6 @@
+.bash_history
+.gitconfig
+*.log
+_pycache_/
+.env
+
